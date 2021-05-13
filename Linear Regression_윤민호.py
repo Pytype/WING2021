@@ -88,3 +88,4 @@ plt.plot(x2,costarr, c="orange")
 plt.xlabel('Epoch')
 plt.ylabel('Cost')
 plt.show()
+
